@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://yoursite.com/Hexo/%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2020-01-13</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/%E5%88%86%E6%9E%90/cnpm%E4%B8%8Enpm%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
+    <lastmod>2020-01-13</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/git%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2020-01-13</lastmod>
   </url>  <url>
@@ -11,12 +17,6 @@
     <lastmod>2020-01-13</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/hexo%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2020-01-13</lastmod>
-  </url>  <url>
-    <loc>http://yoursite.com/Hexo/%E6%90%AD%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2020-01-13</lastmod>
-  </url>  <url>
-    <loc>http://yoursite.com/%E5%88%86%E6%9E%90/cnpm%E4%B8%8Enpm%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
     <lastmod>2020-01-13</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/Hexo/hello-world/</loc>
